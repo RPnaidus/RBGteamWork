@@ -7,7 +7,7 @@ Branch Name : Hyderabad
 SecondBranchNameIs: Markapur
 Branch Name : Hyderabad
 Hello Team RBG Technologies VivekanadaNagar.
-Hello Team RBG Technologies KukatPalli Housing Board phase one.
+Hello Team RBG Technologies KukatPalli Housing Board.
 
 
 
