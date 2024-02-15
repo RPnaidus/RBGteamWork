@@ -1,1 +1,6 @@
-FristName
+FristName : RP
+LastName : Naidu
+AccountNumber :12345
+MobileNumber : 76352936
+IFSC No: RBG000123
+Branch Name : Hyderabad
