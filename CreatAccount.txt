@@ -6,7 +6,6 @@ IFSC No: RBG000123
 Branch Name : Hyderabad
 SecondBranchNameIs: Markapur
 Branch Name : Hyderabad
-Hello Team.
 Hello Team RBG Technologies VivekanadaNagar.
 Hello Team RBG Technologies KukatPalli Housing Board.
 
