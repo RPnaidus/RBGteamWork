@@ -4,5 +4,5 @@ AccountNumber :12345
 MobileNumber : 76352936
 IFSC No: RBG000123
 Branch Name : Hyderabad
-Created account successfully    Thanks.
+
 
