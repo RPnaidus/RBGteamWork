@@ -7,7 +7,7 @@ Branch Name : Hyderabad
 SecondBranchNameIs: Markapur
 Branch Name : Hyderabad
 Hello Team RBG Technologies VivekanadaNagar.
-Code is changed to the local Repo.
+Code is changed to the local Repo , And pull the changes into temote repo to local repo.
 
 
 
